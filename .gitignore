@@ -15,6 +15,7 @@
 .vs
 /UnityProject/Assets/Resources/BuildPrefs.json
 /UnityProject/Assets/StreamingAssets/config/
+/UnityProject/Assets/Scenes/OutpostStation.unity
 
 /Assets/Photon\ Unity\ Networking/
 /Assets/PhotonChatApi
